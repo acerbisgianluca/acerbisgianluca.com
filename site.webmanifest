@@ -1,5 +1,5 @@
 {
-    "name": "Acerbis Gianluca's Website",
+    "name": "Acerbis Gianluca",
     "short_name": "Acerbis Gianluca",
     "icons": [
         {
@@ -13,8 +13,8 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#0B0C0E",
-    "background_color": "#0B0C0E",
-    "start_url": "https://www.acerbisgianluca.com",
+    "theme_color": "#58acf6",
+    "background_color": "#58acf6",
+    "start_url": "https://www.acerbisgianluca.com/",
     "display": "standalone"
 }

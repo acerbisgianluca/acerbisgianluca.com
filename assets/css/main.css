@@ -1,4 +1,3 @@
-@import url(fontawesome-all.min.css);
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro&display=swap');
 
 /*
@@ -633,7 +632,7 @@ input[type='radio'] + label:before {
     text-rendering: auto;
     line-height: 1;
     text-transform: none !important;
-    font-family: 'Font Awesome 5 Free';
+    font-family: 'Font Awesome 6 Free', 'Font Awesome 6 Brands';
     font-weight: 900;
 }
 
@@ -746,7 +745,8 @@ input[type='radio'] + label:before {
     text-rendering: auto;
     line-height: 1;
     text-transform: none !important;
-    font-family: 'Font Awesome 5 Free';
+    font-family: 'Font Awesome 6 Free',
+        'Font Awesome 6 Brands';
     font-weight: 400;
 }
 
@@ -763,7 +763,8 @@ input[type='radio'] + label:before {
 }
 
 .icon.brands:before {
-    font-family: 'Font Awesome 5 Brands';
+    font-family: 'Font Awesome 6 Free',
+        'Font Awesome 6 Brands';
 }
 
 /* Image */
